@@ -1,4 +1,4 @@
-# KBGPassgen
+# KBPassgen
 
 Super simple command line password generator written in C (alphanumeric triplets joined by dash).
 
