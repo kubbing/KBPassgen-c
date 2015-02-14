@@ -1,6 +1,6 @@
 # KBPassgen
 
-Super simple command line password generator written in C (alphanumeric triplets joined by dash).
+Super simple command line password generator written in C (outputs alphanumeric triplets joined by dash).
 
 	WEW-pcD-a23-kHx
 
