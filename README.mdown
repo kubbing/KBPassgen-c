@@ -7,8 +7,8 @@ Super simple command line password generator written in C (alphanumeric triplets
 # Installation
 
 1. clone
-2. `make`
-3. `./passgen`
+2. `$ make`
+3. `$ ./passgen`
 
 # Usage
 
