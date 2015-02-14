@@ -1,0 +1,15 @@
+# KBGPassgen
+
+Super simple command line password generator written in C (alphanumeric triplets joined by dash).
+
+	WEW-pcD-a23-kHx
+
+# Installation
+
+1. clone
+2. `make`
+3. `./passgen`
+
+# Usage
+
+	./passgen [-n <tripet_count>]
